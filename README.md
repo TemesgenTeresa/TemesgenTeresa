@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Temesgen Teresa</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h1 align="center">Sup 👋, I'm Temesgen Teresa</h1>
+<h3 align="center">A passionate computer scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temesgenteresa&label=Profile%20views&color=0e75b6&style=flat" alt="temesgenteresa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/temelifestyle" target="blank"><img src="https://img.shields.io/twitter/follow/temelifestyle?logo=twitter&style=for-the-badge" alt="temelifestyle" /></a> </p>
 
-- 🔭 I’m currently working on [ARU-Token](https://github.com/TemesgenTeresa/ARU-Token)
+- 🔭 I’m currently working on [House-RST](https://github.com/TemesgenTeresa/House-RST)
 
-- 🌱 I’m currently learning **JS,MERN,leetcode**
+- 🌱 I’m currently learning **AI/ML,MERN,leetcode**
 
 - 📫 How to reach me **temesgenteresa1@gmail.com**
 
