@@ -1,6 +1,6 @@
 
 <h1 align="center">Sup 👋, I'm Temesgen Teresa</h1>
-<h3 align="center">A passionate computer scientist</h3>
+<h3 align="center">A passionate computer science student</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temesgenteresa&label=Profile%20views&color=0e75b6&style=flat" alt="temesgenteresa" /> </p>
